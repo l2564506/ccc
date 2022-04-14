@@ -1,6 +1,6 @@
 {
-  "name": "Heroku-v2ray",
-  "description": "将v2ray部署在Heroku上",
+  "name": "ccc",
+  "description": "部署在Heroku上",
   "keywords": [
     "v2ray VMess VLESS"
   ],
@@ -12,7 +12,7 @@
     },
     "UUID": {
       "description": "用户的主ID",
-      "value": "24b4b1e1-7a89-45f6-858c-242cf53b5bdb",
+      "value": "062be77a-b61f-486e-94a5-54a5ccb9f9c0",
       "required": false
     },
     "WS_PATH": {
@@ -21,8 +21,6 @@
       "required": true
     }
   },
-  "website": "https://github.com/Lbingyi/HerokuXray",
-  "repository": "https://github.com/Lbingyi/HerokuXray",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
