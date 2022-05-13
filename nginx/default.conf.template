@@ -10,8 +10,8 @@ server {
       port_in_redirect off;
       index  index.html index.htm;
   }
-  location /mukutap {
-      alias   /usr/share/nginx/html/mukutap;
+  location /mikutap {
+      alias   /usr/share/nginx/html/mikutap;
       port_in_redirect off;
       index  index.html index.htm;
   }
